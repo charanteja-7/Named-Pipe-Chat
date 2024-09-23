@@ -23,11 +23,11 @@ This project consists of two programs, `user1.c` and `user2.c`, that communicate
 ### Compile the Programs
 
 ```
-user terminal 1 : 
+use terminal 1 : 
  gcc user1.c
 ./a.out
 
-user terminal 2 : 
+use terminal 2 : 
  gcc user2.c
 ./a.out
 ```
