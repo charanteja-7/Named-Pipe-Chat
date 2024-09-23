@@ -23,5 +23,4 @@ This project consists of two programs, `user1.c` and `user2.c`, that communicate
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/named-pipe-chat.git
-   cd named-pipe-chat
+   git clone [https://github.com/your-username/named-pipe-chat.git](https://github.com/charanteja-7/Named-Pipe-Chat)
