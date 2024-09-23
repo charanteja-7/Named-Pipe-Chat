@@ -17,3 +17,17 @@ This project consists of two programs, `user1.c` and `user2.c`, that communicate
 - A Linux-based operating system
 - GCC (GNU Compiler Collection)
 - Basic knowledge of C programming and terminal commands
+
+## How to Compile and Run
+
+### Compile the Programs
+
+```
+user terminal 1 : 
+ gcc user1.c
+./a.out
+
+user terminal 2 : 
+ gcc user2.c
+./a.out
+```
