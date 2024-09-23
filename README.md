@@ -31,3 +31,7 @@ user terminal 2 :
  gcc user2.c
 ./a.out
 ```
+
+### Start Chatting
+Once both programs are running, you can start sending messages. User 1 will send a message, and User 2 will respond, and vice versa.
+
